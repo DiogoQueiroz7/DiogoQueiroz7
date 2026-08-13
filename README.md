@@ -48,7 +48,7 @@ const diogo = {
 - 🔭 &nbsp;Desenvolvo **do front ao back**: interfaces em **React/React Native**, APIs em **Node.js**, e **pipelines de dados** com **Airflow/Python**.
 - 🎓 &nbsp;Graduando em **Análise e Desenvolvimento de Sistemas** no IFMS.
 - 🌱 &nbsp;Sempre estudando **arquitetura, boas práticas e novas tecnologias**.
-- 🏢 &nbsp;Contribuo nas orgs [`@Codigos-Gala`](https://github.com/Codigos-Gala) · [`@SCGE-frameworks`](https://github.com/SCGE-frameworks) · [`@Agenda-Academic`](https://github.com/Agenda-Academic)
+- 🏢 &nbsp;Contribuo nas orgs [`@Codigos-Gala`](https://github.com/Codigos-Gala)
 - 💬 &nbsp;Pergunta sobre **TypeScript, React, Node, Python e dados** — bora trocar ideia!
 
 <br/>
